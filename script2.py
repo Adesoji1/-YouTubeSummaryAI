@@ -5,7 +5,7 @@
 # from time import sleep
 
 # # Configuration for YouTube API
-# API_KEY = 'AIzaSyDtC5JMc5BDIHedtMV0_W4L6v2oB9exi88'
+# API_KEY = ''
 # youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 # def get_video_details(video_id):
@@ -82,7 +82,7 @@
 # from time import sleep
 
 # # Configuration for YouTube API
-# API_KEY = 'AIzaSyDtC5JMc5BDIHedtMV0_W4L6v2oB9exi88'
+# API_KEY = ''
 # youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 # def get_video_details(video_id):
@@ -158,7 +158,7 @@
 # import pandas as pd
 
 # # Configuration for YouTube API
-# API_KEY = 'AIzaSyDtC5JMc5BDIHedtMV0_W4L6v2oB9exi88'
+# API_KEY = ''
 # youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 # def get_video_details(video_id):
@@ -258,7 +258,7 @@ import torch
 import pandas as pd
 
 # Configuration for YouTube API
-API_KEY = 'AIzaSyDtC5JMc5BDIHedtMV0_W4L6v2oB9exi88'
+API_KEY = ''
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 def get_video_details(video_id):
